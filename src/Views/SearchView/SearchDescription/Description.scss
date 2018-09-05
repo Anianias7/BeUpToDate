@@ -1,0 +1,22 @@
+.Description {
+  padding: 20px;
+  margin: 40px 0 20px 0;
+}
+
+.Description__Text {
+  text-align: center;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.Description__Item {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.Description__Item_highlighted {
+  color: #FFC107;
+}

@@ -1,0 +1,11 @@
+$ToolBarBackground: #009688;
+
+.ToolBar {
+  box-sizing: border-box;
+  background-color: $ToolBarBackground;
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
